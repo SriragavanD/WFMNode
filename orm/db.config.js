@@ -1,7 +1,7 @@
 module.exports = {
-    HOST: "istsrvmysql01.softuradomain.com",
-    USER: "sriragavan",
-    PASSWORD: "sriragavan",
+    HOST: "localhost",
+    USER: "root",
+    PASSWORD: "password",
     DB: "wfm",
     dialect: "mysql",
     pool: {
